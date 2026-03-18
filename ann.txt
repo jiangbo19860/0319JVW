@@ -1,0 +1,34 @@
+File	Variable	Label	Type	Code	Value
+DEMO_I	RIAGENDR	Gender	discrete	1	Male
+DEMO_I	RIAGENDR	Gender	discrete	2	Female
+DEMO_I	RIDAGEYR	Age	continuous		
+DEMO_I	RIDRETH1	Race	discrete	1	Mexican American
+DEMO_I	RIDRETH1	Race	discrete	2	Other Hispanic
+DEMO_I	RIDRETH1	Race	discrete	3	Non-Hispanic White
+DEMO_I	RIDRETH1	Race	discrete	4	Non-Hispanic Black
+DEMO_I	RIDRETH1	Race	discrete	5	Other Race - Including Multi-Racial
+DEMO_I	DMDEDUC2	Education	discrete	1	Less than 9th grade
+DEMO_I	DMDEDUC2	Education	discrete	2	9-11th grade (Includes 12th grade with no diploma)
+DEMO_I	DMDEDUC2	Education	discrete	3	High school graduate/GED or equivalent
+DEMO_I	DMDEDUC2	Education	discrete	4	Some college or AA degree
+DEMO_I	DMDEDUC2	Education	discrete	5	College graduate or above
+DEMO_I	DMDEDUC2	Education	discrete	7	Refused
+DEMO_I	DMDEDUC2	Education	discrete	9	Don't Know
+DEMO_I	WTINT2YR	WTINT2YR	continuous		
+DEMO_I	WTMEC2YR	WTMEC2YR	continuous		
+DEMO_I	SDMVPSU	SDMVPSU	continuous		
+DEMO_I	SDMVSTRA	SDMVSTRA	continuous		
+BMX_I	BMXBMI	exposure.BMI	continuous		
+MCQ_I	MCQ160n	outcome.Gout	discrete	1	Yes
+MCQ_I	MCQ160n	outcome.Gout	discrete	2	No
+MCQ_I	MCQ160n	outcome.Gout	discrete	7	Refused
+MCQ_I	MCQ160n	outcome.Gout	discrete	9	Don't know
+ALQ_I	ALQ101	Alcohol	discrete	1	Yes
+ALQ_I	ALQ101	Alcohol	discrete	2	No
+ALQ_I	ALQ101	Alcohol	discrete	7	Refused
+ALQ_I	ALQ101	Alcohol	discrete	9	Don't know
+SMQ_I	SMQ020	Smoke	discrete	1	Yes
+SMQ_I	SMQ020	Smoke	discrete	2	No
+SMQ_I	SMQ020	Smoke	discrete	7	Refused
+SMQ_I	SMQ020	Smoke	discrete	9	Don't know
+DR1TOT_I	DR1TFA	Folic	continuous		
